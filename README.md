@@ -1,2 +1,1 @@
-# rsschool-cv
- init: start Markdown &amp; Git task 
+https://romanshajnoga.github.io/rsschool-cv/cv
