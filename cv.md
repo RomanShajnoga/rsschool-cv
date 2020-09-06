@@ -4,19 +4,15 @@
 
 
 #### Summary about me
-Responsible, communicative, work well individually and in team. I want to learn JavaScript and NodeJS for improve my skills and find a new interesting job. My English level is Pre-Intermediate. when I have free time I study English with youtube channels and books.
+Responsible, communicative, work well individually and in team. I want to learn JavaScript and NodeJS for improve my skills and find a new interesting job. My English is the basic level. When I have free time I study English with youtube channel,mobile applications and books.
 
 #### Education
-Sukhoi State Technical University of Gomel - Automation and Information Systems Faculty
+Lviv Polytechnic National University: Institute of Computer Science and Information Technology -automated control systems specialty
 
-#### Work Experience
-I have been a software developer for 15 years.
-Places of work:
-1. OJSC "Gomselmash" - design engineer of electronic control systems for special vehicles.
-2. PM "SvjazInformService" - software engineer.
 
 #### Sofware development skills
-* Embarcadero RAD Studio
-* Android Studio
-* SAP Sybase SQL Anywhere
+* experience with HTML5, CSS3, JS
+* knowledge of JavaScript / JQuery
+* experience of adaptive layout
 * MS SQL Server
+* knowledge of other programming language
