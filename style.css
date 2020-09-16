@@ -1,39 +1,32 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap');
-
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600&display=swap');
 body {
-   font-family:"Playfair Display", sans-serif ;
+   font-family:"Roboto+Slab", sans-serif ;
    margin: 0;  
-} 
+   } 
 
 header {
     display: flex;
     align-items: center; 
-    /* justify-content: space-between; */
-    /* justify-content: center; */
-    /* align-items:center; */
-    /* flex-wrap: wrap; */
-    /* padding: 30px 0px 40px 0px;       */
+   
 }
 .info{
-
    margin: auto; 
 }
 
 .contacts {
-    /* margin-bottom: 5px; */
-}
+    font-weight: bold;
+    margin: 5px;
+   }
 
 .location{
-
+    font-weight: bold;
     margin-top: 10px;
     margin-bottom: 5px;
 }
 .content {
-
     width: 50%;
     margin: auto;   
-
 }
 .icon{
     margin-right: 10px;
@@ -41,16 +34,35 @@ header {
 
 .picture {
     width: 250px;
-    /* border-radius: 450%; */
-    /* margin: 2px 15px 0px 0px; */
-    margin: auto;
+     margin: auto;
 
 }
 
 h1 {
+    font-family: 'Cinzel', sans-serif;
     text-transform: uppercase;
     font-size: 2.5em;
     margin: auto ;
     margin: 0px 0 0 0 ; 
-     /* padding: 0 ;  */
+   }
+
+h2 {
+    text-transform: uppercase;
+    color: #806d02;
 }
+
+p{
+    font-size: 18px;
+    line-height: 170%;
+   
+}
+
+section{
+   padding: 8px 0 8px 0;
+   line-height: 25px;
+}
+
+code{
+    font-size: 16px;
+    font-weight:520;
+   }
